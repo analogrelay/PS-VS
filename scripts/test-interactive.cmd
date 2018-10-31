@@ -1,0 +1,1 @@
+@powershell -NoProfile -NoLogo -NoExit %~dp0test-interactive-start.ps1
